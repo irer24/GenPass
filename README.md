@@ -1,0 +1,2 @@
+# GenPass
+ El Generador de Contraseñas y Almacenamiento es una aplicación desarrollada en Visual Studio Code que permite a los usuarios generar contraseñas seguras y almacenarlas de forma organizada con etiquetas personalizadas. La aplicación proporciona una interfaz intuitiva que permite a los usuarios seleccionar las características deseadas para sus contraseñas, como letras mayúsculas, letras minúsculas, números y símbolos.
